@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Rani</h1>
-<h3 align="center">Bridging Data Science: Data Scientist | Applied Statistician | LLMs | AI/ML </h3>
+<h3 align="center"> Data Scientist | Applied Statistician | LLMs | AI/ML </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/474x/32/5c/f7/325cf722ec54bf7c84b46e355ef89d56.jpg">
 
 - 🔭 I’m currently pursuing **Masters in Statistics + Ph.D. in Technology Management (Data Science)**
