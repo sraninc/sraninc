@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **sne1707@gmail.com | srani@ncsu.edu**
 
-- 📄 Know more about my experiences and background (https://sway.cloud.microsoft/KpCAjuaUu0vDCBRb?ref=Link)
-
 - ⚡ Fun fact **I can eat Oats everyday and I am extremely competitive**
 
 <h3 align="left">Connect with me:</h3>
