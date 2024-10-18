@@ -2,9 +2,7 @@
 <h3 align="center"> Data Scientist | Applied Statistician | LLMs | AI/ML </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/474x/32/5c/f7/325cf722ec54bf7c84b46e355ef89d56.jpg">
 
-- 🔭 I’m currently pursuing **Masters in Statistics + Ph.D. in Technology Management (Data Science)**
-
-- 👯 I’m currently working on **LLMs**
+- 🔭 Graduated with **Masters in Statistics + Ph.D. in Technology Management (Data Science)**
 
 - 📝 Recently I have been reading **The Ten Equations That Rule The World by David Sumpter**
 
