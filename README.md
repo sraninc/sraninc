@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sne1707@gmail.com | srani@ncsu.edu**
 
-- ⚡ Fun fact **I can eat Oats everyday and I am extremely competitive**
+- ⚡ Fun fact **I can eat Oats everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
